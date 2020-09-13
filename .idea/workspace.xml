@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5424f1a0-e974-4053-a393-207f0d7490e4" name="Default Changelist" comment="" />
+    <list default="true" id="5424f1a0-e974-4053-a393-207f0d7490e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOOK/DateType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOOK/DateType.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hN0nAI497O96kVScQZJ0fxTZGl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -73,6 +80,14 @@
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="0" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1599837827788" />
+    <state x="371" y="387" key="FileChooserDialogImpl" timestamp="1600002289215">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="371" y="387" key="FileChooserDialogImpl/0.0.2318.1265@0.0.2318.1265" timestamp="1600002289215" />
+    <state x="418" y="545" width="368" height="187" key="Github.CreateGistDialog" timestamp="1600002451961">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="418" y="545" width="368" height="187" key="Github.CreateGistDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1600002451961" />
     <state width="988" height="300" key="GridCell.Tab.0.bottom" timestamp="1599839415397">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>

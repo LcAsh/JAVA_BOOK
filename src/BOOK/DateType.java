@@ -7,8 +7,8 @@ public class DateType {
         byte    finbyte;
         int     intvalue;
         long    longvalue;
-        short   shortvalue;
         float   floatvalue;
+        short   shortvalue;
         double  doublevalue;
 
         flag        = true;
