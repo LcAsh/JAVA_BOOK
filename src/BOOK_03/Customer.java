@@ -6,7 +6,7 @@ public class Customer {
     public static void main(String[] args) {
         Customer customer = new Customer();
         {
-            String name = "John Smith";
+            String name = "Tom David";
             customer.name = name;
             System.out.println("The customer's name: " + customer.name);
         }
