@@ -5,13 +5,14 @@ public class Customer {
      */
     public static void main(String[] args) {
         Customer customer = new Customer();
-        String name = "John Smith";
         {
-            //下面的说明是非法的，仍在前面一个name的作用域内
-            String name  = "Tom David";
+            String name = "John Smith";
             customer.name = name;
             System.out.println("The customer's name: " + customer.name);
         }
-        private String name;
+       String name = "John Smith";
+        customer.name = name;
+        System.out.println("The customer's name: " + customer.name);
     }
+    private String name;
 }
