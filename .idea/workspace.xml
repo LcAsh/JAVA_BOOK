@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5424f1a0-e974-4053-a393-207f0d7490e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOOK_03/IntDouble_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_03/Work_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOL_04/ArratTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOL_04/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOL_04/CalculatorTester2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOL_04/MyVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOL_04/TableTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_03/Work_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_03/Work_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_05/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_05/PassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOL_04/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOL_04/StringTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,26 +63,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Application.MyVector">
-    <configuration name="ArratTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOL_04.ArratTest" />
+  <component name="RunManager" selected="Application.PassTest">
+    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_05.Date" />
       <module name="BOOK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOOL_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTester2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOL_04.CalculatorTester2" />
-      <module name="BOOK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOOL_04.*" />
+          <option name="PATTERN" value="BOOK_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +90,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOK_03.Example8_16" />
+    <configuration name="PassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_05.PassTest" />
+      <module name="BOOK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOOK_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOL_04.StringTest" />
+      <module name="BOOK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOOL_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOL_04.StringTest2" />
+      <module name="BOOK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOOL_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_03.Work_04" />
       <module name="BOOK" />
       <extension name="coverage">
         <pattern>
@@ -117,39 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOL_04.MyVector" />
-      <module name="BOOK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOOL_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TableTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOL_04.TableTester" />
-      <module name="BOOK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOOL_04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyVector" />
-        <item itemvalue="Application.ArratTest" />
-        <item itemvalue="Application.TableTester" />
-        <item itemvalue="Application.CalculatorTester2" />
-        <item itemvalue="Application.Example8_16" />
+        <item itemvalue="Application.PassTest" />
+        <item itemvalue="Application.Date" />
+        <item itemvalue="Application.Work_04" />
+        <item itemvalue="Application.StringTest2" />
+        <item itemvalue="Application.StringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +180,11 @@
       <workItem from="1602639147242" duration="4881000" />
       <workItem from="1602655567145" duration="5198000" />
       <workItem from="1602673772980" duration="11634000" />
+      <workItem from="1602690920252" duration="17000" />
+      <workItem from="1602757049766" duration="396000" />
+      <workItem from="1602758887846" duration="6900000" />
+      <workItem from="1603105421257" duration="170000" />
+      <workItem from="1603422276384" duration="4669000" />
     </task>
     <task id="LOCAL-00001" summary="03">
       <created>1600010871703</created>
@@ -224,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602660914486</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="03">
+      <created>1602690933823</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602690933823</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,15 +330,19 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="275" y="376" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1600358575622" />
+    <state x="328" y="562" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603422321167">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="328" y="562" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1603422321167" />
     <state x="321" y="379" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600004780033">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="321" y="379" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1600004780033" />
-    <state x="151" y="130" key="CommitChangelistDialog2" timestamp="1602660912097">
-      <screen x="0" y="0" width="1739" height="939" />
+    <state x="201" y="228" key="CommitChangelistDialog2" timestamp="1602690932217">
+      <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="151" y="130" key="CommitChangelistDialog2/0.0.1739.939@0.0.1739.939" timestamp="1602660912097" />
-    <state x="201" y="228" key="CommitChangelistDialog2/0.0.2318.1265@0.0.2318.1265" timestamp="1602557802256" />
+    <state x="201" y="228" key="CommitChangelistDialog2/0.0.2318.1265@0.0.2318.1265" timestamp="1602690932217" />
     <state x="371" y="387" key="FileChooserDialogImpl" timestamp="1602557115374">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -344,50 +359,50 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="418" y="545" width="368" height="187" key="Github.CreateGistDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1600002451961" />
-    <state width="1114" height="160" key="GridCell.Tab.0.bottom" timestamp="1602690368180">
+    <state width="1114" height="319" key="GridCell.Tab.0.bottom" timestamp="1603427699077">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
     <state width="988" height="300" key="GridCell.Tab.0.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1114" height="160" key="GridCell.Tab.0.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1602690368180" />
-    <state width="1114" height="160" key="GridCell.Tab.0.center" timestamp="1602690368179">
+    <state width="1114" height="319" key="GridCell.Tab.0.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1603427699077" />
+    <state width="1114" height="319" key="GridCell.Tab.0.center" timestamp="1603427699077">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1602660956703" />
     <state width="988" height="300" key="GridCell.Tab.0.center/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1114" height="160" key="GridCell.Tab.0.center/0.0.2318.1265@0.0.2318.1265" timestamp="1602690368179" />
-    <state width="1114" height="160" key="GridCell.Tab.0.left" timestamp="1602690368179">
+    <state width="1114" height="319" key="GridCell.Tab.0.center/0.0.2318.1265@0.0.2318.1265" timestamp="1603427699077" />
+    <state width="1114" height="319" key="GridCell.Tab.0.left" timestamp="1603427699077">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1602660956703" />
     <state width="988" height="300" key="GridCell.Tab.0.left/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1114" height="160" key="GridCell.Tab.0.left/0.0.2318.1265@0.0.2318.1265" timestamp="1602690368179" />
-    <state width="1114" height="160" key="GridCell.Tab.0.right" timestamp="1602690368180">
+    <state width="1114" height="319" key="GridCell.Tab.0.left/0.0.2318.1265@0.0.2318.1265" timestamp="1603427699077" />
+    <state width="1114" height="319" key="GridCell.Tab.0.right" timestamp="1603427699077">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
     <state width="988" height="300" key="GridCell.Tab.0.right/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1114" height="160" key="GridCell.Tab.0.right/0.0.2318.1265@0.0.2318.1265" timestamp="1602690368180" />
-    <state width="1114" height="322" key="GridCell.Tab.1.bottom" timestamp="1602690368173">
+    <state width="1114" height="319" key="GridCell.Tab.0.right/0.0.2318.1265@0.0.2318.1265" timestamp="1603427699077" />
+    <state width="1114" height="319" key="GridCell.Tab.1.bottom" timestamp="1603427699077">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1602660956705" />
-    <state width="1114" height="322" key="GridCell.Tab.1.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1602690368173" />
-    <state width="1114" height="322" key="GridCell.Tab.1.center" timestamp="1602690368173">
+    <state width="1114" height="319" key="GridCell.Tab.1.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1603427699077" />
+    <state width="1114" height="319" key="GridCell.Tab.1.center" timestamp="1603427699077">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
-    <state width="1114" height="322" key="GridCell.Tab.1.center/0.0.2318.1265@0.0.2318.1265" timestamp="1602690368173" />
-    <state width="1114" height="322" key="GridCell.Tab.1.left" timestamp="1602690368173">
+    <state width="1114" height="319" key="GridCell.Tab.1.center/0.0.2318.1265@0.0.2318.1265" timestamp="1603427699077" />
+    <state width="1114" height="319" key="GridCell.Tab.1.left" timestamp="1603427699077">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
-    <state width="1114" height="322" key="GridCell.Tab.1.left/0.0.2318.1265@0.0.2318.1265" timestamp="1602690368173" />
-    <state width="1114" height="322" key="GridCell.Tab.1.right" timestamp="1602690368173">
+    <state width="1114" height="319" key="GridCell.Tab.1.left/0.0.2318.1265@0.0.2318.1265" timestamp="1603427699077" />
+    <state width="1114" height="319" key="GridCell.Tab.1.right" timestamp="1603427699077">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
-    <state width="1114" height="322" key="GridCell.Tab.1.right/0.0.2318.1265@0.0.2318.1265" timestamp="1602690368173" />
+    <state width="1114" height="319" key="GridCell.Tab.1.right/0.0.2318.1265@0.0.2318.1265" timestamp="1603427699077" />
     <state x="28" y="170" key="SettingsEditor" timestamp="1602656952176">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -398,12 +413,12 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="180" y="366" key="Vcs.Push.Dialog.v2/0.0.2318.1265@0.0.2318.1265" timestamp="1600010874208" />
-    <state x="244" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1602690919910">
+    <state x="244" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1603427756869">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="183" y="322" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1602655612746" />
     <state x="217" y="385" key="com.intellij.ide.util.TipDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1599921528771" />
-    <state x="244" y="434" key="com.intellij.ide.util.TipDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1602690919910" />
+    <state x="244" y="434" key="com.intellij.ide.util.TipDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1603427756869" />
     <state x="386" y="387" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602658478390">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -424,18 +439,18 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="285" y="425" key="git4idea.merge.GitPullDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1600010995198" />
-    <state x="1056" y="257" key="new project wizard" timestamp="1601304453185">
+    <state x="1056" y="257" key="new project wizard" timestamp="1603105590298">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1056" y="257" key="new project wizard/0.0.2318.1265@0.0.2318.1265" timestamp="1601304453185" />
+    <state x="1056" y="257" key="new project wizard/0.0.2318.1265@0.0.2318.1265" timestamp="1603105590298" />
     <state x="234" y="303" key="run.anything.popup" timestamp="1600357995165">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="234" y="303" key="run.anything.popup/0.0.2318.1265@0.0.2318.1265" timestamp="1600357995165" />
-    <state x="243" y="287" width="672" height="678" key="search.everywhere.popup" timestamp="1602674989094">
+    <state x="244" y="287" width="672" height="678" key="search.everywhere.popup" timestamp="1603422744299">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="182" y="213" width="672" height="504" key="search.everywhere.popup/0.0.1739.939@0.0.1739.939" timestamp="1602658384221" />
-    <state x="243" y="287" width="672" height="678" key="search.everywhere.popup/0.0.2318.1265@0.0.2318.1265" timestamp="1602674989094" />
+    <state x="244" y="287" width="672" height="678" key="search.everywhere.popup/0.0.2318.1265@0.0.2318.1265" timestamp="1603422744299" />
   </component>
 </project>
