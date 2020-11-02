@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5424f1a0-e974-4053-a393-207f0d7490e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOOK_05/BankTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_05/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_05/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_05/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_05/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_05/Test_Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,22 +62,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Application.BankTester">
+  <component name="RunManager" selected="Application.Point_0">
     <configuration name="BankTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOOK_05.BankTester" />
-      <module name="BOOK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOOK_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOK_05.Date" />
       <module name="BOOK" />
       <extension name="coverage">
         <pattern>
@@ -112,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOL_04.StringTest2" />
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_05.Point" />
       <module name="BOOK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOOL_04.*" />
+          <option name="PATTERN" value="BOOK_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +115,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Work_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOK_03.Work_04" />
+    <configuration name="Point_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_05.Point_0" />
       <module name="BOOK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOOK_03.*" />
+          <option name="PATTERN" value="BOOK_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_05.Test_Person" />
+      <module name="BOOK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOOK_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point_0" />
+        <item itemvalue="Application.Point" />
+        <item itemvalue="Application.Test_Person" />
         <item itemvalue="Application.BankTester" />
         <item itemvalue="Application.PassTest" />
-        <item itemvalue="Application.Date" />
-        <item itemvalue="Application.Work_04" />
-        <item itemvalue="Application.StringTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +186,8 @@
       <workItem from="1603422276384" duration="4669000" />
       <workItem from="1603427755022" duration="18000" />
       <workItem from="1603680309506" duration="2710000" />
-      <workItem from="1603700382876" duration="1844000" />
+      <workItem from="1603700382876" duration="1921000" />
+      <workItem from="1604281365966" duration="3949000" />
     </task>
     <task id="LOCAL-00001" summary="03">
       <created>1600010871703</created>
@@ -241,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603427769399</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="03">
+      <created>1603710094006</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603710094006</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,15 +355,15 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="321" y="379" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1600004780033" />
-    <state x="201" y="228" key="CommitChangelistDialog2" timestamp="1603427767912">
+    <state x="201" y="228" key="CommitChangelistDialog2" timestamp="1603710092636">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="151" y="130" key="CommitChangelistDialog2/0.0.1739.939@0.0.1739.939" timestamp="1602660912097" />
-    <state x="201" y="228" key="CommitChangelistDialog2/0.0.2318.1265@0.0.2318.1265" timestamp="1603427767912" />
-    <state x="371" y="387" key="FileChooserDialogImpl" timestamp="1602557115374">
+    <state x="201" y="228" key="CommitChangelistDialog2/0.0.2318.1265@0.0.2318.1265" timestamp="1603710092636" />
+    <state x="371" y="387" key="FileChooserDialogImpl" timestamp="1603710115826">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="371" y="387" key="FileChooserDialogImpl/0.0.2318.1265@0.0.2318.1265" timestamp="1602557115374" />
+    <state x="371" y="387" key="FileChooserDialogImpl/0.0.2318.1265@0.0.2318.1265" timestamp="1603710115826" />
     <state x="415" y="529" width="368" height="206" key="Gitee.CreateGistDialog" timestamp="1600011076589">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -365,50 +376,50 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="418" y="545" width="368" height="187" key="Github.CreateGistDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1600002451961" />
-    <state width="1116" height="316" key="GridCell.Tab.0.bottom" timestamp="1603683059325">
+    <state width="866" height="315" key="GridCell.Tab.0.bottom" timestamp="1604284741635">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
     <state width="988" height="300" key="GridCell.Tab.0.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1116" height="316" key="GridCell.Tab.0.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1603683059325" />
-    <state width="1116" height="316" key="GridCell.Tab.0.center" timestamp="1603683059325">
+    <state width="866" height="315" key="GridCell.Tab.0.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1604284741635" />
+    <state width="866" height="315" key="GridCell.Tab.0.center" timestamp="1604284741619">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1602660956703" />
     <state width="988" height="300" key="GridCell.Tab.0.center/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1116" height="316" key="GridCell.Tab.0.center/0.0.2318.1265@0.0.2318.1265" timestamp="1603683059325" />
-    <state width="1116" height="316" key="GridCell.Tab.0.left" timestamp="1603683059325">
+    <state width="866" height="315" key="GridCell.Tab.0.center/0.0.2318.1265@0.0.2318.1265" timestamp="1604284741619" />
+    <state width="866" height="315" key="GridCell.Tab.0.left" timestamp="1604284741619">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1602660956703" />
     <state width="988" height="300" key="GridCell.Tab.0.left/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1116" height="316" key="GridCell.Tab.0.left/0.0.2318.1265@0.0.2318.1265" timestamp="1603683059325" />
-    <state width="1116" height="316" key="GridCell.Tab.0.right" timestamp="1603683059325">
+    <state width="866" height="315" key="GridCell.Tab.0.left/0.0.2318.1265@0.0.2318.1265" timestamp="1604284741619" />
+    <state width="866" height="315" key="GridCell.Tab.0.right" timestamp="1604284741619">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
     <state width="988" height="300" key="GridCell.Tab.0.right/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1116" height="316" key="GridCell.Tab.0.right/0.0.2318.1265@0.0.2318.1265" timestamp="1603683059325" />
-    <state width="1116" height="316" key="GridCell.Tab.1.bottom" timestamp="1603683059325">
+    <state width="866" height="315" key="GridCell.Tab.0.right/0.0.2318.1265@0.0.2318.1265" timestamp="1604284741619" />
+    <state width="866" height="315" key="GridCell.Tab.1.bottom" timestamp="1604284741635">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1602660956705" />
-    <state width="1116" height="316" key="GridCell.Tab.1.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1603683059325" />
-    <state width="1116" height="316" key="GridCell.Tab.1.center" timestamp="1603683059325">
+    <state width="866" height="315" key="GridCell.Tab.1.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1604284741635" />
+    <state width="866" height="315" key="GridCell.Tab.1.center" timestamp="1604284741635">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
-    <state width="1116" height="316" key="GridCell.Tab.1.center/0.0.2318.1265@0.0.2318.1265" timestamp="1603683059325" />
-    <state width="1116" height="316" key="GridCell.Tab.1.left" timestamp="1603683059325">
+    <state width="866" height="315" key="GridCell.Tab.1.center/0.0.2318.1265@0.0.2318.1265" timestamp="1604284741635" />
+    <state width="866" height="315" key="GridCell.Tab.1.left" timestamp="1604284741635">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
-    <state width="1116" height="316" key="GridCell.Tab.1.left/0.0.2318.1265@0.0.2318.1265" timestamp="1603683059325" />
-    <state width="1116" height="316" key="GridCell.Tab.1.right" timestamp="1603683059325">
+    <state width="866" height="315" key="GridCell.Tab.1.left/0.0.2318.1265@0.0.2318.1265" timestamp="1604284741635" />
+    <state width="866" height="315" key="GridCell.Tab.1.right" timestamp="1604284741635">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1115" height="221" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1602660956704" />
-    <state width="1116" height="316" key="GridCell.Tab.1.right/0.0.2318.1265@0.0.2318.1265" timestamp="1603683059325" />
+    <state width="866" height="315" key="GridCell.Tab.1.right/0.0.2318.1265@0.0.2318.1265" timestamp="1604284741635" />
     <state x="28" y="170" key="SettingsEditor" timestamp="1602656952176">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -445,10 +456,10 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="285" y="425" key="git4idea.merge.GitPullDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1600010995198" />
-    <state x="1056" y="257" key="new project wizard" timestamp="1603105590298">
+    <state x="1056" y="257" key="new project wizard" timestamp="1603710164216">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1056" y="257" key="new project wizard/0.0.2318.1265@0.0.2318.1265" timestamp="1603105590298" />
+    <state x="1056" y="257" key="new project wizard/0.0.2318.1265@0.0.2318.1265" timestamp="1603710164216" />
     <state x="234" y="303" key="run.anything.popup" timestamp="1600357995165">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
