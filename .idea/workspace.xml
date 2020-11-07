@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5424f1a0-e974-4053-a393-207f0d7490e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOOK_05/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_05/SuperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_05/UseStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_05/Count.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOOK_05/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOOK_05/Point.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,6 +187,7 @@
       <workItem from="1604315652312" duration="7596000" />
       <workItem from="1604573543337" duration="849000" />
       <workItem from="1604642213554" duration="600000" />
+      <workItem from="1604714034968" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="03">
       <created>1600010871703</created>
@@ -439,12 +437,12 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="180" y="366" key="Vcs.Push.Dialog.v2/0.0.2318.1265@0.0.2318.1265" timestamp="1600010874208" />
-    <state x="244" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1604643314608">
+    <state x="1206" y="485" key="com.intellij.ide.util.TipDialog" timestamp="1604714334235">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="183" y="322" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1602655612746" />
     <state x="217" y="385" key="com.intellij.ide.util.TipDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1599921528771" />
-    <state x="244" y="434" key="com.intellij.ide.util.TipDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1604643314608" />
+    <state x="1206" y="485" key="com.intellij.ide.util.TipDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1604714334235" />
     <state x="386" y="387" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602658478390">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
