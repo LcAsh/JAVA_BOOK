@@ -1,3 +1,4 @@
+/*
 package BOOK_08;
 
 import org.w3c.dom.events.MouseEvent;
@@ -59,3 +60,4 @@ public class TwoListener implements MouseMotionListener, MouseListener {
     public void mouseReleased(MouseEvent e){}
 
 }
+*/

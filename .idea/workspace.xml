@@ -2,29 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5424f1a0-e974-4053-a393-207f0d7490e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOOK_06/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_06/HellowWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_07/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_07/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_07/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/ActionEventDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/ActionEventDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/BorderLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/BoxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/BoxLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/ButtonHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/CardLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/ExGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/FlowLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/FrameWithPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/GlueAndStrut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/GridLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/JFrameDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/JFrameDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/MyButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/NullLayoutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOOK_08/TwoListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_11/File_demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_11/IO流简介.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_12/RThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_13/SimpleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_13/SimpleServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOOK_13/TelnetApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOOK_08/TwoListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOOK_08/TwoListener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +18,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -81,38 +69,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\JAVA_BOOK-Program\src\BOOK_11" />
       <recent name="D:\WorkSpace\JAVA_BOOK-Program\src\BOOK_05\11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ActionEventDemo2">
-    <configuration name="ActionEventDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOK_08.ActionEventDemo" />
-      <module name="BOOK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOOK_08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SimpleClient">
     <configuration name="ActionEventDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOOK_08.ActionEventDemo2" />
-      <module name="BOOK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BOOK_08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOK_08.BoxDemo" />
       <module name="BOOK" />
       <extension name="coverage">
         <pattern>
@@ -137,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GlueAndStrut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOK_08.GlueAndStrut" />
+    <configuration name="File_demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_11.File_demo1" />
       <module name="BOOK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOOK_08.*" />
+          <option name="PATTERN" value="BOOK_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +113,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullLayoutDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOOK_08.NullLayoutDemo" />
+    <configuration name="RThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_12.RThreadTest" />
       <module name="BOOK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOOK_08.*" />
+          <option name="PATTERN" value="BOOK_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_13.SimpleClient" />
+      <module name="BOOK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOOK_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOOK_13.SimpleServer" />
+      <module name="BOOK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BOOK_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleClient" />
+        <item itemvalue="Application.SimpleServer" />
+        <item itemvalue="Application.RThreadTest" />
+        <item itemvalue="Application.File_demo1" />
         <item itemvalue="Application.ActionEventDemo2" />
-        <item itemvalue="Application.ActionEventDemo" />
-        <item itemvalue="Application.NullLayoutDemo" />
-        <item itemvalue="Application.GlueAndStrut" />
-        <item itemvalue="Application.BoxDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +209,10 @@
       <workItem from="1605266840294" duration="7360000" />
       <workItem from="1605444643282" duration="8395000" />
       <workItem from="1605516804658" duration="9402000" />
+      <workItem from="1605603702987" duration="252000" />
+      <workItem from="1605670065742" duration="6000000" />
+      <workItem from="1605773242021" duration="14321000" />
+      <workItem from="1605791486586" duration="2315000" />
     </task>
     <task id="LOCAL-00001" summary="03">
       <created>1600010871703</created>
@@ -375,6 +368,10 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="181" y="292" key="#Deployment/0.0.2318.1265@0.0.2318.1265" timestamp="1600010857897" />
+    <state x="100" y="295" key="#Inspections" timestamp="1605674288075">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="100" y="295" key="#Inspections/0.0.2318.1265@0.0.2318.1265" timestamp="1605674288075" />
     <state x="173" y="296" key="#Setter_Template" timestamp="1600356915857">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -422,50 +419,50 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="418" y="545" width="368" height="187" key="Github.CreateGistDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1600002451961" />
-    <state width="1114" height="450" key="GridCell.Tab.0.bottom" timestamp="1605535110445">
+    <state width="982" height="447" key="GridCell.Tab.0.bottom" timestamp="1605789286384">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1114" height="314" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1605453787110" />
     <state width="988" height="300" key="GridCell.Tab.0.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1114" height="450" key="GridCell.Tab.0.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1605535110445" />
-    <state width="1114" height="450" key="GridCell.Tab.0.center" timestamp="1605535110445">
+    <state width="982" height="447" key="GridCell.Tab.0.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1605789286384" />
+    <state width="982" height="447" key="GridCell.Tab.0.center" timestamp="1605789286384">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1114" height="314" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1605453787110" />
     <state width="988" height="300" key="GridCell.Tab.0.center/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1114" height="450" key="GridCell.Tab.0.center/0.0.2318.1265@0.0.2318.1265" timestamp="1605535110445" />
-    <state width="1114" height="450" key="GridCell.Tab.0.left" timestamp="1605535110445">
+    <state width="982" height="447" key="GridCell.Tab.0.center/0.0.2318.1265@0.0.2318.1265" timestamp="1605789286384" />
+    <state width="982" height="447" key="GridCell.Tab.0.left" timestamp="1605789286384">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1114" height="314" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1605453787110" />
     <state width="988" height="300" key="GridCell.Tab.0.left/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1114" height="450" key="GridCell.Tab.0.left/0.0.2318.1265@0.0.2318.1265" timestamp="1605535110445" />
-    <state width="1114" height="450" key="GridCell.Tab.0.right" timestamp="1605535110445">
+    <state width="982" height="447" key="GridCell.Tab.0.left/0.0.2318.1265@0.0.2318.1265" timestamp="1605789286384" />
+    <state width="982" height="447" key="GridCell.Tab.0.right" timestamp="1605789286384">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1114" height="314" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1605453787110" />
     <state width="988" height="300" key="GridCell.Tab.0.right/0.0.2065.1122@0.0.2065.1122" timestamp="1599839415397" />
-    <state width="1114" height="450" key="GridCell.Tab.0.right/0.0.2318.1265@0.0.2318.1265" timestamp="1605535110445" />
-    <state width="1114" height="450" key="GridCell.Tab.1.bottom" timestamp="1605535110446">
+    <state width="982" height="447" key="GridCell.Tab.0.right/0.0.2318.1265@0.0.2318.1265" timestamp="1605789286384" />
+    <state width="982" height="447" key="GridCell.Tab.1.bottom" timestamp="1605789286384">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1114" height="314" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1605453787112" />
-    <state width="1114" height="450" key="GridCell.Tab.1.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1605535110446" />
-    <state width="1114" height="450" key="GridCell.Tab.1.center" timestamp="1605535110446">
+    <state width="982" height="447" key="GridCell.Tab.1.bottom/0.0.2318.1265@0.0.2318.1265" timestamp="1605789286384" />
+    <state width="982" height="447" key="GridCell.Tab.1.center" timestamp="1605789286384">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1114" height="314" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1605453787110" />
-    <state width="1114" height="450" key="GridCell.Tab.1.center/0.0.2318.1265@0.0.2318.1265" timestamp="1605535110446" />
-    <state width="1114" height="450" key="GridCell.Tab.1.left" timestamp="1605535110446">
+    <state width="982" height="447" key="GridCell.Tab.1.center/0.0.2318.1265@0.0.2318.1265" timestamp="1605789286384" />
+    <state width="982" height="447" key="GridCell.Tab.1.left" timestamp="1605789286384">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1114" height="314" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1605453787110" />
-    <state width="1114" height="450" key="GridCell.Tab.1.left/0.0.2318.1265@0.0.2318.1265" timestamp="1605535110446" />
-    <state width="1114" height="450" key="GridCell.Tab.1.right" timestamp="1605535110446">
+    <state width="982" height="447" key="GridCell.Tab.1.left/0.0.2318.1265@0.0.2318.1265" timestamp="1605789286384" />
+    <state width="982" height="447" key="GridCell.Tab.1.right" timestamp="1605789286384">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1114" height="314" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1605453787111" />
-    <state width="1114" height="450" key="GridCell.Tab.1.right/0.0.2318.1265@0.0.2318.1265" timestamp="1605535110446" />
+    <state width="982" height="447" key="GridCell.Tab.1.right/0.0.2318.1265@0.0.2318.1265" timestamp="1605789286384" />
     <state x="377" y="348" key="RollbackChangesDialog" timestamp="1605236725157">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -480,12 +477,13 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state x="180" y="366" key="Vcs.Push.Dialog.v2/0.0.2318.1265@0.0.2318.1265" timestamp="1600010874208" />
-    <state x="1206" y="485" key="com.intellij.ide.util.TipDialog" timestamp="1605516805696">
-      <screen x="0" y="0" width="2318" height="1265" />
+    <state x="431" y="901" key="com.intellij.ide.util.TipDialog" timestamp="1605791485832">
+      <screen x="0" y="0" width="1304" height="2279" />
     </state>
+    <state x="431" y="901" key="com.intellij.ide.util.TipDialog/0.0.1304.2279@0.0.1304.2279" timestamp="1605791485832" />
     <state x="183" y="322" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1602655612746" />
     <state x="217" y="385" key="com.intellij.ide.util.TipDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1599921528771" />
-    <state x="1206" y="485" key="com.intellij.ide.util.TipDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1605516805696" />
+    <state x="767" y="500" key="com.intellij.ide.util.TipDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1605773244673" />
     <state x="386" y="387" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602658478390">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -495,10 +493,10 @@
     </state>
     <state x="358" y="173" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1739.939@0.0.1739.939" timestamp="1602657735977" />
     <state x="477" y="233" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1604714656396" />
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1" timestamp="1605446052884">
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1" timestamp="1605783739030">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
-    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1/0.0.2318.1265@0.0.2318.1265" timestamp="1605446052884" />
+    <state x="1153" y="0" width="1172" height="1272" key="dock-window-1/0.0.2318.1265@0.0.2318.1265" timestamp="1605783739030" />
     <state x="1153" y="0" width="1172" height="1272" key="dock-window-2" timestamp="1602675229733">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -520,5 +518,16 @@
     </state>
     <state x="182" y="213" width="672" height="504" key="search.everywhere.popup/0.0.1739.939@0.0.1739.939" timestamp="1602658384221" />
     <state x="245" y="287" width="672" height="678" key="search.everywhere.popup/0.0.2318.1265@0.0.2318.1265" timestamp="1605533126721" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BOOK_01$SimpleClient.ic" NAME="SimpleClient Coverage Results" MODIFIED="1605789286309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BOOK_13.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BOOK_01$RThreadTest.ic" NAME="RThreadTest Coverage Results" MODIFIED="1605783823400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BOOK_12.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BOOK_01$File_demo1.ic" NAME="File_demo1 Coverage Results" MODIFIED="1605672744765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BOOK_11.*</FILTER>
+    </SUITE>
   </component>
 </project>
